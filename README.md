@@ -9,6 +9,7 @@ This repository contains a Django REST Framework (DRF) project that implements u
 - **User Management**: Allows authenticated users to view and manage their profiles.
 - **JWT Authentication**: Secures API endpoints using JWT tokens.
 - **Custom Permissions**: Includes custom permission classes to restrict access to certain views.
+- **Login with Google**: Has login with google feature
 
 ## Requirements
 
